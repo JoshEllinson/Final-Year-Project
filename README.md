@@ -1,6 +1,6 @@
 # Final-Year-Project
 
-To Run the project located in TSP_Program.py you will need to install tsplib95, you can do this by running the following in your terminal: pip install tsplib95
+To Run the project located in TSP_Program.py you will need to install tsplib95 and matplotlib, you can do this by running the following in your terminal:( pip install tsplib95 ) and ( pip install matplotlib ) 
 
 Once you have pressed run the first dataset will appear in the console, you simply have to wait for the algorithms to run, you will know when the algorithms have completed for the first dataset 
 as the results will appear in the console and the first of a series of visualisations will appear. Once you have viewed the first visualisation please close it and the next one will appear. 
